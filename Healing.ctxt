@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Healing
+comment0.text=\r\n\ The\ healing\ powerup\:\ refills\ the\ player's\ hp\r\n\ \r\n\ @author\ (Jaylen\ Cheung)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=player
+comment1.target=Healing(Player)
+comment1.text=\r\n\ Healing\ Constructor\r\n\r\n\ @param\ player\ the\ player\ in\ the\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n
+comment3.params=
+comment3.target=void\ activate()
+comment3.text=\r\n\ Method\ to\ activate\ the\ powerup\ benefits\:\ refill\ the\ player's\ hp\r\n
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getImage()
+comment4.text=\r\n\ Method\ to\ get\ the\ image\ of\ the\ powerup\r\n\r\n\ @return\ the\ powerup's\ image\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Method\ to\ get\ the\ notification\ name\ of\ the\ powerup\r\n\r\n\ @return\ the\ powerup's\ notification\ name\r\n
+comment6.params=
+comment6.target=boolean\ needsIcon()
+comment6.text=\r\n\ Method\ to\ get\ whether\ or\ not\ the\ powerup\ needs\ an\ icon\ that\ shows\ its\ timer\r\n\r\n\ @return\ false\ as\ the\ healing\ powerup\ needs\ no\ timer\r\n
+comment7.params=
+comment7.target=greenfoot.Color\ getColor()
+comment7.text=\r\n\ Method\ to\ get\ the\ color\ of\ the\ powerup\r\n\r\n\ @return\ the\ powerup's\ color\r\n
+numComments=8

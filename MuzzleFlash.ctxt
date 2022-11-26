@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MuzzleFlash
+comment0.text=\r\n\ The\ muzzle\ flash\ of\ the\ player's\ weapon,\ appears\ for\ a\ second\ when\ a\ bullet\ is\ fired\r\n\ \r\n\ @author\ (Jaylen\ Cheung)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=MuzzleFlash()
+comment1.text=\r\n\ MuzzleFlash\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Follows\ the\ rifle\ and\ reduces\ transparency\ to\ apply\ the\ fade\ out\ effect,\ removes\ the\ object\ when\ it\ is\ transparent\r\n
+numComments=3

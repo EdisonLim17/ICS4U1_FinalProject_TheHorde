@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ The\ enemy\ superclass\r\n\ \r\n\ @author\ (Edison\ Lim)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\r\n\ Enemy\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Removes\ the\ object\ from\ the\ world\ if\ it\ has\ died\r\n\ Set\ attacking\ animation\ if\ it\ is\ currently\ attacking\ the\ player,\ and\ deal\ damage\ to\ the\ player\ if\ it\ hits\ him\r\n\ If\ it\ is\ not\ currently\ attacking\ the\ player,\ move\ towards\ the\ player\r\n
+comment3.params=dmg
+comment3.target=void\ dealDmg(int)
+comment3.text=\r\n\ Method\ to\ deal\ damage\ to\ the\ enemy\r\n\ \r\n\ Called\ by\ the\ bullet\ class\ when\ the\ bullet\ has\ collided\ with\ the\ enemy\r\n\r\n\ @param\ dmg\ the\ amount\ of\ damage\ dealt\r\n
+numComments=4

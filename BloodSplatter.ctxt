@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BloodSplatter
+comment0.text=\r\n\ The\ enemy's\ blood\ splatter,\ appears\ for\ a\ few\ seconds\ after\ the\ enemy\ dies\r\n\ \r\n\ @author\ (Edison\ Lim)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=BloodSplatter()
+comment1.text=\r\n\ BloodSplatter\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Reduces\ transparency\ to\ apply\ fade\ out\ effect,\ and\ removes\ the\ object\ when\ it\ is\ transparent\r\n
+numComments=3

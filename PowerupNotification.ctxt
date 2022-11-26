@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PowerupNotification
+comment0.text=\r\n\ The\ notification\ that\ pops\ up\ on\ the\ screen\ when\ the\ player\ has\ picked\ up\ a\ powerup\r\n\ \r\n\ @author\ (Jaylen\ Cheung)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=powerup
+comment1.target=PowerupNotification(Powerup)
+comment1.text=\r\n\ PowerupNotification\ Constructor\r\n\r\n\ @param\ powerup\ the\ powerup\ represented\ by\ the\ powerup\ notification\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Updates\ the\ amount\ of\ time\ that\ the\ notification\ has\ been\ up,\ and\ clears\ the\ notification\ when\ it\ has\ reached\ its\ time\r\n
+comment3.params=powerup
+comment3.target=void\ drawPowerupNotification(Powerup)
+comment3.text=\r\n\ Method\ to\ draw\ the\ powerup\ notification\r\n\r\n\ @param\ powerup\ the\ powerup\ represented\ by\ the\ powerup\ notification\r\n
+numComments=4

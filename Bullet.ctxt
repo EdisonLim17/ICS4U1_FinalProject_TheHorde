@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ The\ bullet\ that\ is\ fired\ from\ the\ player's\ weapon\r\n\ \r\n\ @author\ (Edison\ Lim)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=Bullet()
+comment1.text=\r\n\ Bullet\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Moves\ the\ bullet\ forward,\ and\ removes\ it\ from\ the\ world\ if\ it\ has\ reached\ the\ edge\ of\ the\ world\ or\ if\ it\ has\ hit\ and\ enemy\r\n
+comment3.params=
+comment3.target=boolean\ collisionDetection()
+comment3.text=\r\n\ Method\ to\ check\ if\ the\ bullet\ has\ collided\ with\ an\ enemy,\ and\ deals\ damage\ respectively\ (from\ Mr.\ Cohen)\r\n\r\n\ @return\ true\ if\ the\ bullet\ as\ collided\ with\ an\ enemy,\ and\ false\ otherwise\r\n
+numComments=4

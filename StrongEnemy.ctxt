@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StrongEnemy
+comment0.text=\r\n\ The\ strong\ enemy\ (large\ zombie\ in\ a\ t-shirt)\r\n\ \r\n\ @author\ (Edison\ Lim)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=StrongEnemy()
+comment1.text=\r\n\ StrongEnemy\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n
+comment3.params=width\ height
+comment3.target=greenfoot.GreenfootImage\ drawStrongEnemy(int,\ int)
+comment3.text=\r\n\ Method\ to\ draw\ the\ strong\ enemy\r\n\r\n\ @param\ width\ the\ width\ of\ the\ strong\ enemy\r\n\ @param\ height\ the\ height\ of\ the\ strong\ enemy\r\n\ @return\ the\ strong\ enemy's\ image\r\n
+numComments=4

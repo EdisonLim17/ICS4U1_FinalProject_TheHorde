@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InstructionsMenu
+comment0.text=\r\n\ The\ world\ displaying\ the\ instructions\ for\ how\ to\ play\ the\ game,\ the\ user\ is\ taken\ to\ this\ world\ after\ clicking\ the\ 'How\ To\ Play\ Button'\ in\ the\ MainMenu\r\n\ \r\n\ @author\ (Jaylen\ Cheung)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=InstructionsMenu()
+comment1.text=\r\n\ InstructionsMenu\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Checks\ if\ the\ user\ clicks\ the\ 'back'\ button,\ and\ takes\ them\ back\ to\ the\ main\ menu\ if\ they\ did\r\n
+numComments=3

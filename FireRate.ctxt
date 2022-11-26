@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FireRate
+comment0.text=\r\n\ The\ firerate\ powerup\:\ increases\ the\ player's\ firerate\ for\ a\ duration\r\n\ \r\n\ @author\ (Jaylen\ Cheung)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=player
+comment1.target=FireRate(Player)
+comment1.text=\r\n\ FireRate\ Constructor\r\n\r\n\ @param\ player\ the\ player\ in\ the\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n
+comment3.params=
+comment3.target=void\ activate()
+comment3.text=\r\n\ Method\ to\ activate\ the\ powerup\ benefits\:\ increase\ the\ player's\ firerate\r\n
+comment4.params=
+comment4.target=void\ deactivate()
+comment4.text=\r\n\ Method\ to\ deactivate\ the\ powerup\ benefits\:\ reset\ the\ player's\ firerate\r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getImage()
+comment5.text=\r\n\ Method\ to\ get\ the\ image\ of\ the\ powerup\r\n\r\n\ @return\ the\ powerup's\ image\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Method\ to\ get\ the\ notification\ name\ of\ the\ powerup\r\n\r\n\ @return\ the\ powerup's\ notification\ name\r\n
+comment7.params=
+comment7.target=greenfoot.Color\ getColor()
+comment7.text=\r\n\ Method\ to\ get\ the\ color\ of\ the\ powerup\r\n\r\n\ @return\ the\ powerup's\ color\r\n
+numComments=8

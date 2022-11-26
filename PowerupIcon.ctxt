@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PowerupIcon
+comment0.text=\r\n\ The\ icon\ that\ shows\ what\ powerup\ is\ active\ and\ its\ timer\r\n\ \r\n\ @author\ (Jaylen\ Cheung)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=powerup
+comment1.target=PowerupIcon(Powerup)
+comment1.text=\r\n\ PowerupIcon\ Constructor\r\n\r\n\ @param\ powerup\ the\ powerup\ represented\ by\ the\ powerup\ icon\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Updates\ the\ timer\ on\ the\ powerup\ icon\r\n
+comment3.params=
+comment3.target=Powerup\ getPowerup()
+comment3.text=\r\n\ Method\ to\ get\ the\ powerup\ of\ the\ powerup\ icon\r\n\r\n\ @return\ the\ powerup\ icon's\ powerup\r\n
+comment4.params=
+comment4.target=int\ getTimeLeft()
+comment4.text=\r\n\ Method\ to\ get\ the\ amount\ of\ time\ left\ on\ the\ timer\ of\ the\ powerup\r\n\r\n\ @return\ the\ amount\ of\ time\ left\ on\ the\ powerup\ icon\r\n
+comment5.params=timeLeft
+comment5.target=void\ setTimeLeft(int)
+comment5.text=\r\n\ Method\ to\ set\ the\ timer\ of\ the\ powerup\r\n\r\n\ @param\ timeLeft\ current\ time\ left\r\n
+comment6.params=width\ height
+comment6.target=void\ drawPowerupIcon(int,\ int)
+comment6.text=\r\n\ Method\ to\ draw\ the\ powerup\ icon\r\n\r\n\ @param\ width\ the\ width\ of\ the\ powerup\ icon\r\n\ @param\ height\ the\ height\ of\ the\ powerup\ icon\r\n
+numComments=7

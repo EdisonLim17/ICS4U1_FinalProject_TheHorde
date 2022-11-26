@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ScoreFile
+comment1.params=
+comment1.target=ScoreFile\ getInstance()
+comment1.text=\r\n\ Instance\ referencer\ (as\ a\ singleton,\ this\ replaces\ the\ constructor\ of\ this\ class)\r\n\r\n\ @return\ the\ scorefile\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getScoreData()
+comment2.text=\r\n\ Method\ to\ get\ all\ scores\ from\ the\ file\ (used\ to\ display\ the\ scores)\r\n\r\n\ @return\ all\ scores\ from\ the\ file\r\n
+comment3.params=newScore
+comment3.target=void\ addScoreData(int)
+comment3.text=\r\n\ Method\ to\ add\ a\ new\ score\ to\ the\ file\r\n\r\n\ @param\ newScore\ a\ new\ score\r\n
+comment4.params=
+comment4.target=void\ createScoreFile()
+comment4.text=\r\n\ Helper\ method\ for\ checking\ if\ score\ file\ exists\r\n
+comment5.params=
+comment5.target=void\ sortScore()
+comment5.text=\r\n\ Method\ to\ sort\ the\ score\ in\ reverse\ order\ (largest\ to\ smallest)\r\n\r\n
+comment6.params=
+comment6.target=void\ parseFileToData()
+comment6.text=\r\n\ Method\ to\ convert\ data\ from\ file\ into\ the\ arraylist\r\n
+comment7.params=
+comment7.target=void\ parseDataToFile()
+comment7.text=\r\n\ Method\ to\ convert\ data\ from\ the\ arraylist\ into\ the\ file\r\n\r\n
+numComments=8

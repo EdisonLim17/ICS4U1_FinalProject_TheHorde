@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sort
+comment0.text=\r\n\ Merge\ Sort\ algorithm\r\n\ (Nothing\ new\ here,\ literally\ just\ the\ regular\ algorithm\ sorter)\r\n\ \r\n\ @author\ (Vaughn\ Chan)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=arr
+comment1.target=int[]\ reverseMergeSort(int[])
+comment1.text=\r\n\ Method\ to\ reverse\ merge\ sort\r\n\r\n\ @param\ arr\ the\ array\ to\ be\ sorted\r\n\ @return\ the\ reverse\ sorted\ array\r\n
+comment2.params=arr
+comment2.target=int[]\ mergeSort(int[])
+comment2.text=\r\n\ Method\ to\ merge\ sort\r\n\r\n\ @param\ arr\ the\ array\ to\ be\ sorted\r\n\ @return\ the\ sorted\ array\r\n
+comment3.params=arr\ from\ to\ temp
+comment3.target=void\ mergeSortHelper(int[],\ int,\ int,\ int[])
+comment3.text=\r\n\ Merge\ sort\ helper\ method\r\n\r\n\ @param\ arr\ the\ array\ to\ be\ sorted\r\n\ @param\ from\ starting\ index\r\n\ @param\ to\ ending\ index\r\n\ @param\ temp\ a\ temporary\ array\ to\ copy\ the\ elements\ to\r\n
+comment4.params=arr\ from\ mid\ to\ temp
+comment4.target=void\ merge(int[],\ int,\ int,\ int,\ int[])
+comment4.text=\r\n\ Method\ to\ merge\r\n\r\n\ @param\ arr\ the\ array\ to\ be\ sorted\r\n\ @param\ from\ the\ starting\ index\r\n\ @param\ mid\ the\ middle\ index\r\n\ @param\ to\ the\ ending\ index\r\n\ @param\ temp\ a\ temporary\ array\ to\ copy\ the\ elements\ to\r\n
+numComments=5

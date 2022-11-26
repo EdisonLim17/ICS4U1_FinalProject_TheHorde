@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\n\ The\ world\ where\ the\ game\ is\ played,\ the\ user\ is\ taken\ to\ this\ world\ after\ clicking\ the\ 'Play"\ button\ in\ the\ MainMenu\r\n\ \r\n\ @author\ (Edison\ Lim)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=GameWorld()
+comment1.text=\r\n\ GameWorld\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Checks\ whether\ or\ not\ to\ spawn\ an\ enemy,\ increases\ enemy\ spawn\ chance,\ and\ manages\ powerups\r\n
+comment3.params=
+comment3.target=void\ spawnEnemy()
+comment3.text=\r\n\ Method\ to\ spawn\ an\ enemy\r\n\ \r\n\ Spawns\ a\ random\ enemy\ at\ a\ random\ location\ at\ the\ edge\ of\ the\ screen\r\n
+comment4.params=
+comment4.target=void\ handlePowerups()
+comment4.text=\r\n\ Method\ to\ manage\ powerups\r\n\ \r\n\ Spawns\ a\ random\ powerup\ on\ the\ screen\ if\ the\ random\ number\ matches\ the\ powerup\ frequency\r\n\ Checks\ if\ the\ player\ collided\ with\ any\ powerups,\ and\ grants\ its\ benefits\r\n\ Updates\ the\ powerup\ icons\ and\ timer\r\n
+comment5.params=
+comment5.target=void\ endGame()
+comment5.text=\r\n\ Method\ to\ end\ the\ game\r\n\ \r\n\ Called\ by\ the\ player\ class,\ ends\ the\ game\ by\ taking\ the\ user\ to\ the\ end\ screen\r\n
+numComments=6

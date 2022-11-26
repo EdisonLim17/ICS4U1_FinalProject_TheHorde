@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ The\ button\ class\r\n\ \r\n\ @author\ (Edison\ Lim)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=str
+comment1.target=Button(java.lang.String)
+comment1.text=\r\n\ Button\ Constructor\r\n\r\n\ @param\ str\ the\ label\ of\ the\ button\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Checks\ if\ the\ user\ is\ hovering\ over\ the\ button\ with\ the\ mouse,\ and\ updates\ the\ image\ of\ the\ button\ if\ they\ are\r\n
+comment3.params=
+comment3.target=void\ playClickSound()
+comment3.text=\r\n\ Method\ to\ play\ the\ click\ sound\ of\ pressing\ the\ button,\ called\ by\ worlds\ that\ have\ buttons\ in\ them\r\n
+comment4.params=backColor\ labelColor\ hoverColor
+comment4.target=void\ drawButton(greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color)
+comment4.text=\r\n\ Method\ to\ draw\ the\ button\r\n\r\n\ @param\ backColor\ the\ color\ of\ the\ button\r\n\ @param\ labelColor\ the\ color\ of\ the\ label\r\n\ @param\ hoverColor\ the\ hover\ color\ of\ the\ label\r\n
+numComments=5

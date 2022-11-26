@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ The\ main\ menu\ of\ the\ game\r\n\ \r\n\ @author\ (Vaughn\ Chan)\ \r\n\ @version\ (2.0\:\ 01/22/2022)\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\r\n\ MainMenu\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ Method\r\n\ \r\n\ Checks\ if\ the\ user\ clicked\ any\ of\ the\ buttons,\ and\ take\ them\ to\ the\ respective\ worlds\ if\ they\ did\r\n
+numComments=3
